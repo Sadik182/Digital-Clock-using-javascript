@@ -1,0 +1,24 @@
+body{
+background: black;
+}
+h1{
+    color: #17D4FE;
+    font-weight: bold;
+    font-size: 40px;
+    top: 40%;
+    transform: translate(-45);
+    text-align: center;
+}
+.clock{
+color: #17D4FE;
+position: absolute;
+top: 40%;
+left: 15%;
+transform:translate(-50);
+letter-spacing: 7px;
+font-size: 60px;
+font-family: orbiton;
+
+
+
+}
